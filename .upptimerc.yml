@@ -14,13 +14,15 @@ sites:
 status-website:
   # Add your custom domain name, or remove the cname line if you don't have a domain
   # Uncomment the baseUrl line if you don't have a custom domain and add your repo name there
-  cname: status.gpg.ink
+  cname: service.gpg.ink
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pigeon SNS Service Health dashboard
-  introTitle: "This is a dashboard showcasing the operational status of the Mastodon instance, Pigeon SNS."
-  introMessage: 在此页面上，您可观测到 GPG.INK 上的 Mastodon 实例的 实时 运行状况，如果网站部分功能出现问题，您可从以下数据中进行故障排除
+  introTitle: "Pigeon SNS is a part of the decentralized social network Mastodon, which is even more free and open."
+  introMessage: 在此页面上，您可观测到 GPG.INK 上的 Mastodon 实例的 实时 运行状况
   navbar:
+    - title: SNS
+      href: https://gpg.ink/@i
     - title: Status
       href: /
 
