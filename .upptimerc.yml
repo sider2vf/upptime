@@ -5,12 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: Pigeon SNS Web
     url: https://gpg.ink/
+  - name: Pigeon SNS API Endpoint
+    url: https://gpg.ink/api/v1/instance/
   - name: Pigeon SNS Object Storage
     url: https://mcdn.gpg.ink/
     expectedStatusCodes:
       - 403
-  - name: Pigeon SNS API Endpoint
-    url: https://gpg.ink/api/v1/instance/
+
 status-website:
   # Add your custom domain name, or remove the cname line if you don't have a domain
   # Uncomment the baseUrl line if you don't have a custom domain and add your repo name there
@@ -18,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/sider2vf/upptime/master/assets/logo.png
   name: Pigeon SNS Service Health dashboard
-  introTitle: "Pigeon SNS is a part of the decentralized social network Mastodon, which is even more free and open."
+  introTitle: "Pigeon SNS is a part of the decentralized social network Mastodon."
   introMessage: 在此页面上，您可观测到 GPG.INK 上的 Mastodon 实例的 实时 运行状况
   navbar:
     - title: SNS
