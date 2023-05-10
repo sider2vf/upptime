@@ -16,7 +16,7 @@ status-website:
   # Uncomment the baseUrl line if you don't have a custom domain and add your repo name there
   cname: service.gpg.ink
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/sider2vf/upptime/master/assets/logo.png
   name: Pigeon SNS Service Health dashboard
   introTitle: "Pigeon SNS is a part of the decentralized social network Mastodon, which is even more free and open."
   introMessage: 在此页面上，您可观测到 GPG.INK 上的 Mastodon 实例的 实时 运行状况
