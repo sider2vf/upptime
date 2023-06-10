@@ -6,7 +6,7 @@ sites:
   - name: IMGUGU Home
     url: https://www.imgugu.ink/
   - name: Gugu's Blog
-    url: https://www.imgugu.ink/
+    url: https://blog.imgugu.ink/
   - name: Pigeon IT Access (SSO)
     url: https://sso.imgugu.ink/
   - name: Anime Pic
