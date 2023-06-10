@@ -3,6 +3,16 @@ owner: sider2vf # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+  - name: IMGUGU Home
+    url: https://www.imgugu.ink/
+  - name: Gugu's Blog
+    url: https://www.imgugu.ink/
+  - name: Pigeon IT Access (SSO)
+    url: https://sso.imgugu.ink/
+  - name: Anime Pic
+    url: https://moe.imgugu.ink/
+  - name: IMGUGU Music
+    url: https://music.imgugu.ink/
   - name: Pigeon SNS Web
     url: https://gpg.ink/
   - name: Pigeon SNS API Endpoint
