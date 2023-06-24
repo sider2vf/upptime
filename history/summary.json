@@ -4,36 +4,40 @@
     "url": "https://gpg.ink/",
     "icon": "https://icons.duckduckgo.com/ip3/gpg.ink.ico",
     "slug": "pigeon-sns-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 705,
-    "timeWeek": 432,
-    "timeMonth": 429,
-    "timeYear": 441,
-    "dailyMinutesDown": {}
+    "time": 439,
+    "timeDay": 509,
+    "timeWeek": 419,
+    "timeMonth": 426,
+    "timeYear": 439,
+    "dailyMinutesDown": {
+      "2023-06-24": 0
+    }
   },
   {
     "name": "Pigeon SNS API Endpoint",
     "url": "https://gpg.ink/api/v1/instance/",
     "icon": "https://icons.duckduckgo.com/ip3/gpg.ink.ico",
     "slug": "pigeon-sns-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 174,
-    "timeWeek": 100,
-    "timeMonth": 115,
-    "timeYear": 121,
-    "dailyMinutesDown": {}
+    "time": 132,
+    "timeDay": 433,
+    "timeWeek": 166,
+    "timeMonth": 132,
+    "timeYear": 132,
+    "dailyMinutesDown": {
+      "2023-06-24": 0
+    }
   },
   {
     "name": "Pigeon SNS Object Storage",
